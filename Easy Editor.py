@@ -146,3 +146,6 @@ btn_dir.clicked.connect(showFilenamesList)
 main_win.setWindowTitle("Easy Editor")
 main_win.show()
 app.exec_()
+
+
+#thank you
